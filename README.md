@@ -1,15 +1,5 @@
-# Order Management API (ASP.NET Core + Identity + JWT + EF Core)
 
-This project demonstrates a secure Order Management system using:
-- ASP.NET Core Web API  
-- Identity Authentication  
-- JWT-based Authorization  
-- SQL Server  
-- Entity Framework Core  
-
----
-
-## 📸 **Screenshots (Assignment Evidence)**
+## 📸 **Screenshots**
 
 ### **1. Project Structure**
 ![Project Structure](screenshots/project_structure.jpg)
@@ -35,29 +25,3 @@ This project demonstrates a secure Order Management system using:
 ### **8. Authorized Delete Order (DELETE)**
 ![Delete Order](screenshots/delete_order.jpg)
 
----
-
-## ✅ Features
-- User Registration  
-- JWT-based Login  
-- Full CRUD on Orders  
-- Secured Endpoints  
-- EF Core + SQL Server Integration  
-
----
-
-## 🚀 How to Run
-1. Update connection string in `appsettings.json`  
-2. Run migrations  
-3. Start the API  
-4. Use Postman to test with JWT token  
-
----
-
-## 🧑‍💻 Tech Stack
-- C#
-- ASP.NET Core Web API
-- MS SQL Server
-- EF Core
-- Identity
-- JWT Authentication
