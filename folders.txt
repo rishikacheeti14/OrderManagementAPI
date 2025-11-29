@@ -1,0 +1,7 @@
+Controller
+Data
+Migrations
+Models
+Properties
+Repositories
+Services
